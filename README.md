@@ -1,2 +1,2 @@
 # dsml
-This is practice tests for data science and ml
+This is practical guide for data science and ml concepts and algorithms.
